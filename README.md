@@ -10,3 +10,11 @@ Things I need to figure out:
 - find someone French or EU based that will be able to print the necessary parts - voron french discord group might be of help here as well
 - study both V0 and Tiny-M step files, as well as [Xile's direct drive mod](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/tree/master/Toolheads/Xile_Tiny_M).
 - figure out a rough total price and keep a bom with links
+
+## Later edit 1:
+These are the sites that I received:
+https://schraube-mutter.de/verbindungstechnik/muttern/
+https://fermio.xyz
+https://vonwange.com
+
+One guy on the french voron/tinyM channel offered to help with screws & printed parts: iBLtz V2.400 :heart:
